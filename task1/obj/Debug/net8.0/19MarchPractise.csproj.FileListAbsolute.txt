@@ -1,0 +1,14 @@
+C:\Users\resul\Desktop\19MarchPractise\bin\Debug\net8.0\19MarchPractise.exe
+C:\Users\resul\Desktop\19MarchPractise\bin\Debug\net8.0\19MarchPractise.deps.json
+C:\Users\resul\Desktop\19MarchPractise\bin\Debug\net8.0\19MarchPractise.runtimeconfig.json
+C:\Users\resul\Desktop\19MarchPractise\bin\Debug\net8.0\19MarchPractise.dll
+C:\Users\resul\Desktop\19MarchPractise\bin\Debug\net8.0\19MarchPractise.pdb
+C:\Users\resul\Desktop\19MarchPractise\obj\Debug\net8.0\19MarchPractise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resul\Desktop\19MarchPractise\obj\Debug\net8.0\19MarchPractise.AssemblyInfoInputs.cache
+C:\Users\resul\Desktop\19MarchPractise\obj\Debug\net8.0\19MarchPractise.AssemblyInfo.cs
+C:\Users\resul\Desktop\19MarchPractise\obj\Debug\net8.0\19MarchPractise.csproj.CoreCompileInputs.cache
+C:\Users\resul\Desktop\19MarchPractise\obj\Debug\net8.0\19MarchPractise.dll
+C:\Users\resul\Desktop\19MarchPractise\obj\Debug\net8.0\refint\19MarchPractise.dll
+C:\Users\resul\Desktop\19MarchPractise\obj\Debug\net8.0\19MarchPractise.pdb
+C:\Users\resul\Desktop\19MarchPractise\obj\Debug\net8.0\19MarchPractise.genruntimeconfig.cache
+C:\Users\resul\Desktop\19MarchPractise\obj\Debug\net8.0\ref\19MarchPractise.dll
